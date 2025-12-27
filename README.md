@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @officialankan
-- 🌱 aspiring data scientist
+- 🌊 engineering hydrologist
 - 💞️ hit me up for data in python
 - 📫 anders.retzner@gmail.com
